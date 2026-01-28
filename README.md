@@ -24,7 +24,7 @@
   - показаний сенсоров
   - команд приводам
   - событий и ошибок
-
+![Telemetry Graphs](docs/media/telemetry_charts.png)
 ---
 
 ### ⚡ Кэширование
